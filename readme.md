@@ -203,6 +203,3 @@ This project was developed to gain a deeper understanding of:
 - Differential encoding.
 - Run-length encoding.
 
-## License
-
-This project is licensed under the MIT License.
